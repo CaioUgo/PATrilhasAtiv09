@@ -20,9 +20,6 @@ class Program
 			}
 			Console.Clear();
 
-		
-		Console.WriteLine("Os elementos da lista são: ");
-		
 		int maior = inteiros[0];
 			
 		foreach (int numero in inteiros)
