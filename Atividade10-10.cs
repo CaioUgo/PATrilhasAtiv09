@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-class Produto
+class Produto 
 {
     public string Nome { get; set; }
     public decimal Preco { get; set; }
